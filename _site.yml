@@ -11,4 +11,4 @@ navbar:
       href: https://github.com/maryknoop
 output:
   html_document:
-    theme: yeti
+    theme: yeti 
