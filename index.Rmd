@@ -7,9 +7,6 @@ output:
     theme: yeti
 ---
 
-# This is Mary's awesome website. 
-
-#About Mary
 
 This is a picture of my cat. His name is Fred. 
 <img src="photos/IMG_2217.jpeg" style="width:75%">
