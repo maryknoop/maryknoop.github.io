@@ -11,3 +11,10 @@ output:
 
 #About Mary
 
+This is a picture of my cat. His name is Fred. 
+<img src="photos/IMG_2217.jpeg" style="width:75%">
+
+This is a picture of my growing babe. We don't know its name yet.  
+<img src="photos/IMG.jpeg" style="width:75%">
+
+
