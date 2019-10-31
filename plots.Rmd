@@ -1,13 +1,12 @@
 ---
-title: "plots"
-author: "Mary Knoop"
-date: "10/30/2019"
-output: html_document
+title: "Plots"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: yeti
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ```{r}
 library(tidyverse)
