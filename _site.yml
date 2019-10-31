@@ -1,20 +1,14 @@
-
-name: "Mary's Website"
+name: "Yay internet!"
 output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: About.html
+    - text: "About Me"
+      href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:mk4022@cumc.columbia.edu
+      href: mailto:<mk4022@cumc.columbia.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/maryknoop/
-      - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/mary-knoop-19703838/
+      href: https://github.com/maryknoop
 output:
   html_document:
-    theme: yeti
-    
+    theme: cerulean
