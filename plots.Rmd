@@ -17,3 +17,8 @@ install.packages("plotly")
 library(plotly)
 ```
 
+```{r}
+data ("instacart")
+instacart
+```
+
